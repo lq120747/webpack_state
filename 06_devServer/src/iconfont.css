@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1636511990806') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-01_diandongche:before {
+  content: "\e694";
+}
+
+.icon-a-01_feiji:before {
+  content: "\e695";
+}
+
+.icon-a-01_chuzuche:before {
+  content: "\e696";
+}
+
+.icon-a-01_lanche:before {
+  content: "\e697";
+}
+

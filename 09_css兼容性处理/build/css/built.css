@@ -1,0 +1,16 @@
+/*!**************************************************************************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!../node_modules/postcss-loader/dist/cjs.js??postcss!./src/css/index.css ***!
+  \**************************************************************************************************************************/
+#box1{
+  width:100px;
+  height: 100px;
+  background-color: pink;
+  display: flex;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+#box2{
+  width:200px;
+  height: 200px;
+  background-color: red;
+}
